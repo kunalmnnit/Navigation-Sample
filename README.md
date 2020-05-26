@@ -1,4 +1,4 @@
-# flutter_fire
+# Navigation Sample
 
 A new Flutter application.
 
